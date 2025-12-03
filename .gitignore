@@ -1,0 +1,58 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+*.ipynb_rev*
+
+# Jupyter auto-save files
+*.ipynb.save
+*.ipynb.tmp
+
+# ============================
+# VS Code
+# ============================
+.vscode/
+
+# ============================
+# Data files (OPTIONAL)
+# Uncomment if you DON'T want data tracked in git
+# ============================
+# df/*.csv
+# df/*.tsv
+# df/*.xlsx
+
+# ============================
+# MacOS junk
+# ============================
+.DS_Store
+*.DS_Store
+
+# ============================
+# Python packaging
+# ============================
+build/
+dist/
+*.egg-info/
+
+# ============================
+# Environment files
+# ============================
+.env
+*.env
