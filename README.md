@@ -1,6 +1,7 @@
 CS557 Project by Oscar DeHamer, Heidi Lin, Andre Lasola
 
 loaddbs.ipynb loads the database with our data, run this first
+
 project.ipynb is our work, run this after loaddbs.ipynb
 
 
